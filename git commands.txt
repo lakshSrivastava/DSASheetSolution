@@ -1,0 +1,15 @@
+GITHUB
+
+touch .gitignore
+git config --global user.name Laksh
+git config --global user.email srivastavalaksh5@gmail.com
+
+git init
+git add .
+git commit -m "intial commit"
+git status
+
+ssh key auth
+
+git remote add origin <ssh.url>
+git push origin master
